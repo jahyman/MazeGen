@@ -1,4 +1,4 @@
 MazeGen
 =======
 
-Random maze generation in Java.
+Random maze generation made in Java for CS112.
